@@ -1,0 +1,8 @@
+545ce2d568b17849533faf8903f72a39  src/LiquidDSP.cpp
+8bfcd22353c3a57fee561ad86ee2a56b  reconf
+dcba2eafb897bd327e8fc2b3fe75dd3c  include/LiquidDSP.h
+545eb00c2902b887e5ad0ed528307aef  configure.ac
+e6f27fdc93252a8ef7ffe465b5786e36  Makefile.am
+132b19386cacb3ecbfc240323d291216  Makefile.am.ide
+1a6fa00172d7f80263b253586eab03e8  LiquidDSP.pc.in
+2b2faa5cfc83438427491f4be5d6ee59  build.sh
